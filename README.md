@@ -1,2 +1,2 @@
-# Assignment4_earguello
-ECE238L Assignment 4
+Compile: gcc -Wall -o main main.c
+Run ./main 67676
