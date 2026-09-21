@@ -1,2 +1,2 @@
-Compile: gcc -Wall -o main main.c
-Run ./main 67676
+#Compile: gcc -Wall -o main main.c
+#Run ./main 67676
